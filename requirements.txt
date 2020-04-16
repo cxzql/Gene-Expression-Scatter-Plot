@@ -1,0 +1,25 @@
+测试需求中文版
+1.文件分类上传，生成散点图
+2.数据显示按照属性分色标识
+3.基因数据筛选
+4.相关性系数显示
+5.散点详细信息显示（鼠标行为下）
+6.意见提交功能
+7.属性查询或相关性系数查询。
+8.页面跳转以及显示正常
+9.中文支持显示功能
+10.重要功能提供友善的用户说明
+
+英文版：
+1. Upload files by category and generate scatter plot.
+2. Data display is marked by property separations.
+3. Screening of genetic data.
+4. Correlation coefficient display.
+5. Detailed information display of scattered points (under mouse behavior).
+6. Comment submission function.
+7. Attribute query or correlation coefficient query .
+8. Page jumps and displays normally.
+9. Chinese supports display function.
+10. Important features provide user friendly instructions.
+
+
